@@ -1,9 +1,10 @@
 # ETL-Data-Pipeline-Using-Python-and-Airflow
 
-### Data Ingestion and Storage:
+
 
 ![image](https://github.com/asimiyu-musa/ETL-Data-Pipeline-Using-Python-and-Airflow/assets/78653468/40426a5e-b140-4a64-8244-c1f32b934edc)
 
+### Data Ingestion and Storage:
 - **Efficient Extraction**: Specialized scripts extract essential data from diverse sources, ensuring the retrieval of pertinent information.
 - **Centralized Storage**: Extracted data is stored in the Data Lake, forming a centralized repository for raw datasets, including combined, population, and EVB datasets.
 
